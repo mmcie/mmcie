@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html/css/js
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me mmcieply@gmail.com
-- 😄 Pronouns: he
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
